@@ -4,6 +4,7 @@
 https://youtu.be/mFHN-5xt7yI
 
 8.2 Validierung des Replikationsprotokolls:
+https://youtu.be/j9_DPhyQszQ
 
 8.3 Validierung von Replanning mit parallelem Spei-
 cherzugriff:
