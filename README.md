@@ -1,0 +1,1 @@
+# Synchronisation-verteilter-Daten-zur-dezentralen-Planung-mit-Hierarchical-Task-Networks
