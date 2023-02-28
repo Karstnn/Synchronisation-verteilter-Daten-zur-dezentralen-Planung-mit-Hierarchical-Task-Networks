@@ -1,6 +1,7 @@
 # Synchronisation-verteilter-Daten-zur-dezentralen-Planung-mit-Hierarchical-Task-Networks
 
 8.1 Validierung der Replanning-Funktionalität:
+https://youtu.be/mFHN-5xt7yI
 
 8.2 Validierung des Replikationsprotokolls:
 
